@@ -9,3 +9,4 @@ nbdev_build_docs
 
 git add . -A
 git commit -m 'Updating library and docs'
+git push
