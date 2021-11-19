@@ -11,4 +11,3 @@ git add . -A
 git commit -m "Updating library and docs"
 git push
 
-make pypi
