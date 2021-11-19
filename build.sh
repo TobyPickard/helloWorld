@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo HelloWorld
+pip install nbdev
 
 cd ${1}
 nbdev_build_lib
@@ -10,3 +10,5 @@ git add . -A
 
 git commit -m "Updating library and docs"
 git push
+
+make pypi
