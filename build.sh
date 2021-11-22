@@ -2,7 +2,7 @@
 
 pip install nbdev
 
-cd ${1}
+cd $1
 
 nbdev_build_lib
 nbdev_build_docs
