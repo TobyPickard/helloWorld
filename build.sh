@@ -9,7 +9,7 @@ nbdev_build_docs
 
 git add . -A
 
-git commit -m "Updating library and docs. Time:2021-12-01 14:52:49.400082, Version:7.7"
+git commit -m "Updating library and docs. Time:2021-12-01 14:53:12.119188, Version:7.8"
 git push
 
 echo Process done
