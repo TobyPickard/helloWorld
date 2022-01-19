@@ -1,4 +1,6 @@
 # Project name here
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTobyPickard%2FhelloWorld.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTobyPickard%2FhelloWorld?ref=badge_shield)
+
 > Summary description here.
 
 
@@ -22,3 +24,7 @@ Fill me in please! Don't forget code examples:
     50
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTobyPickard%2FhelloWorld.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTobyPickard%2FhelloWorld?ref=badge_large)
